@@ -105,7 +105,7 @@ typedef enum {
 #define STARTMUSIC          243
 
 //
-// Music names & indexes
+// Music names & indexes test
 //
 typedef enum {
     XFUNKIE_MUS,             // 0
